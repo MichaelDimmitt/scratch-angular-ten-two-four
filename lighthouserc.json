@@ -1,0 +1,11 @@
+{
+  "ci": {
+    "collect": {
+      "staticDistDir": "./dist/scratch-angular-ten-two-four"
+    },
+    "upload": {
+      "target": "temporary-public-storage"
+    }
+  }
+}
+
